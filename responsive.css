@@ -1,0 +1,1917 @@
+
+@media only screen and (max-width: 1024px){
+    .firstpg{
+        width: 1024px;
+        height: auto;
+    }
+
+.navbar{
+    width: 1024px;
+    height: auto    ;
+}
+
+.nav12 img{
+    width: 140%;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+}
+
+.nav3{
+    width: 27%;
+    gap: 1px;
+}
+.drop-down {
+    width: 110px;
+    height: 60px;
+    display: flex;
+
+}
+
+.nav12 {
+    width: 130px;
+    height: auto;
+
+
+}
+.nav2{
+    width: 70%;
+
+}
+
+.nav2 ul li a{
+    font-size: 10x;
+}
+
+.nav3 h3{
+    display: none;
+}
+
+.secpg{
+    width: 1024px;
+    height: auto;
+}
+.sec1{
+    width: 500px;   
+}
+
+.sec1 img{
+    width: 350px;
+}
+.secbox{
+    left:70px;
+    top: 250px;
+}
+.sec2{
+    width: 524px;
+}
+.sec2 h1{
+    width: 370px;
+}
+
+.sec2 p{
+    width: 370px;
+}
+
+.sec2 h1{
+    width: 370px;
+}
+
+.fourpg{
+    width: 1024px;
+}
+.fivepg{
+    width: 1024px;
+    height: auto;
+}
+
+.five1{
+    display: flex;
+}
+
+.five11{
+    width: 500px;       
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+}
+
+
+.five12{
+    width: 524px;
+  padding-left: 200px;
+
+}
+
+.fffff{
+    display: flex;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+.five12 h1{
+    
+  width: 400px;
+  padding-top: 50px;
+  font-size: 40px;
+}
+
+.five12 h1 span{
+    font-size: 40px;
+}
+
+.five12 h3{
+    font-size: 20px;
+    width: 350px;
+}
+.fbox{
+    width: 500px;
+    box-shadow: none;
+    margin-left: 300px;
+
+}
+
+.fbox h1{ 
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fimg{
+    left: 450px;
+    top:290px;
+}
+
+
+.five2 {
+    width: 1000px;
+    height: auto    ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+
+}
+
+.fff {
+    display: flex;
+
+    gap: 20px;
+
+
+}
+
+.fffff {
+    display: flex;
+    gap: 20px;
+}
+
+.five2 h1 {
+    width: 200px;
+    font-family: "Playfair Display", serif;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+.five2 h1 span {
+    width: 200px;
+    font-family: "Playfair Display", serif;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    border-bottom: 2px solid black;
+}
+
+
+
+.fivebox h1{
+    font-size: 60px;
+}
+
+.sixpg{
+    width: 1024px;
+    height: auto;
+}
+.six1{
+    width: 500px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.six1 h1{
+    width: 400px;
+}
+.six1 p{
+    width: 300px;
+}
+.six3{
+    display: flex;
+    flex-direction: column;
+
+}
+.sbox{
+    display: flex;
+    align-items: center;
+}
+.sbox h1{
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.six2{
+    width: 500px;
+    height: auto;
+}
+.ssdata{
+    left: 400px;
+    top: 250px;
+}
+
+.sevenpg{
+    width:1024px;
+    height: auto;
+    padding-top: 30px;
+}
+
+.sevendata{
+    height: auto;
+    flex-direction:  column;
+    padding: 40px;
+}
+
+.sevbox{
+    width: 450px;
+    height: 370px;  
+}
+
+.sevbox img{
+    width: 35%;
+}
+.sevbox p{
+    width: 300px;
+}
+.sevenpg  h4{
+    width:700px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+
+.eightp{
+    width: 920px;
+    height: auto;
+}
+.eightbox{
+    width: 700px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+.eightdata{
+    width: 400px;
+        left: 170px;
+        top: 40px;
+
+}
+
+.eightp h2{
+    padding: 0;
+    font-size: 50px;
+}
+.eightp h3{
+    font-size: 20px;
+}
+
+.eightp h1{
+    width: 400px;
+    font-size: 26px;
+    
+}
+
+.eightp h1 span{
+    width: 400px;
+    font-size: 26px;
+    
+}
+
+.eightp{
+    width: 1024px;
+    height: auto;
+}
+.eightbox{
+    width: 900px;
+    height: 480px;
+    background-position: center;
+    background-size: cover;
+}
+
+.eightdata{
+    width: 400px;
+        left: 170px;
+        top: 40px;
+
+}
+
+.eightp h2{
+    padding: 0;
+    font-size: 50px;
+}
+.eightp h3{
+    font-size: 20px;
+}
+
+.eightp h1{
+    width: 400px;
+    font-size: 26px;
+    
+}
+
+.eightp h1 span{
+    width: 400px;
+    font-size: 26px;
+    
+}
+.ninebox{
+    width: 290px;
+    height: auto;
+    padding-bottom: 20px;
+}
+.ninebox h5{
+    width: 250px;
+}
+.nine{
+    gap: 30px;
+}
+.date{
+    width: 250px;
+}
+.ninepg{
+    width: 1024px;
+}
+
+.tenpg{
+    width: 1024px;
+}
+
+.li{
+    display: flex;
+}
+
+.ll {
+    display: flex;
+    gap: 50px;
+}
+.ll img{
+    width: 60%;
+}
+
+.ten2 h1 {
+    width: 250px;
+    font-family: "Playfair Display", serif;
+    font-size: 23px;
+    font-weight: 400;
+    color: rgb(165, 165, 165);
+    margin-left: -20px;
+}
+
+
+.ten2 h1 span {
+    width: 250px;
+    color: rgb(255, 255, 255);
+
+    font-family: "Playfair Display", serif;
+    font-size: 23px;
+    font-weight: 900;
+    font-style: italic;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.ten2 img {
+    width: 90%;
+}
+
+.ten2 {
+    width: 950px;
+    height: 30vh;
+    display: flex;
+    gap: 50px;
+   
+  
+
+}
+
+.ten2 {
+    width: 80%;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    align-items: start;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.216);
+
+}
+.ten21{
+    width: 200px;
+}
+}
+
+@media only screen and (max-width: 920px){
+    .firstpg{
+    
+
+        width: 920px;
+height: auto;
+background-size: 1000px;
+    }
+
+    .navbar{
+        width: 920px;
+        height: 80px;;
+        background-color: rgb(255, 255, 255);
+       
+        
+    }
+
+    .navbar ul{
+        display: none;
+    }
+
+    .nav1{
+        width: 35%;
+        margin-left: -40px;
+        margin-top: -10px;
+
+    }
+
+    .nav3{
+        display: none;
+    }
+
+    .nav12{
+        display: none;
+    }
+    .nav22{
+        display: flex;
+    }
+
+    .firstdata{
+        width: 920px;
+        padding-left: 100px;
+    }
+    .firstdata h1{
+        font-size: 60px;
+        width: 350px;
+
+        line-height: 60px;
+    }
+    .firstdata h1 span{
+        font-size: 60px;
+           width: 300px;
+           font-weight: 600;
+
+        line-height: 60px;
+    }
+ .secpg{
+        width: 920px;
+        height: auto;
+
+    flex-direction: column;
+    }
+
+    .sec1{
+        width: 920px;
+        height: auto;
+
+    }
+
+    .sec1 img{
+        width: 600px;
+       margin-right: 130px;
+    }
+
+
+    .secbox{
+
+        left: 30px;
+        top: 450px;
+    }
+.sec2{
+    width: 920px;
+    height: auto;
+padding-left: 100px;
+padding-bottom: 100px;
+padding-top: 70px;
+}
+
+.sec2 h1{
+    width: 850px;
+    font-size: 35px;
+}
+
+.sec2 p{
+    width: 800px;
+    line-height: 27px;
+
+}
+
+
+
+.fourpg{
+    display: flex;
+    flex-direction: column;
+    width: 920px;
+    height: auto;
+}
+
+.four1{
+     align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 450px;
+
+}
+
+.four1 h3{
+    width: 750px;
+    font-size: 20px;
+}
+
+.four1 h1{
+    width: 800px;
+    font-size: 30px;
+}
+
+.four1 h1 span{
+    width: 400px;
+    font-size: 30px;
+}
+
+
+.four2{
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -140px;
+}
+
+.fourbox{
+    width: 750px;
+    }
+.fourboxdata{
+   width: 700px;
+   height: auto;
+}
+
+
+.fivepg{
+    width: 920px;
+    height: auto;
+}
+
+.five1{
+    flex-direction: column;
+    
+}
+
+.five11{
+    width: 800px;       
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+}
+
+
+.five12{
+    width: 920px;
+  
+
+}
+
+.fffff{
+    display: flex;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+.five12 h1{
+    
+  width: 800px;
+  padding-top: 50px;
+}
+
+
+.fbox{
+    width: 800px;
+    box-shadow: none;
+    margin-left: 300px;
+
+}
+
+.fbox h1{ 
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fimg{
+    left: 710px;
+    top:290px;
+}
+
+.five2{
+    width: 920px;
+
+    display: flex;
+    height: auto;
+    
+
+    flex-direction: column;
+
+}
+
+.five2 h1{
+        width: 800px;
+
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.five2 h1 span{
+    font-size: 30px;
+}
+
+.sixpg{
+    width: 920px;   
+    flex-direction: column;
+    height: auto; 
+    padding-top: 50px;
+  }
+
+  .sixdata h1{
+    width: 800px;
+    font-size: 40px
+  }
+
+  .sixdata p{
+    width: 700px;
+  }
+.six3{
+    display: flex;
+    gap:20px;
+    
+    padding-bottom: 40px;
+}
+
+.six3 h3{
+    width: 500px;
+}
+.six2{
+    display: flex;
+    width: 920px;   
+    justify-content: center;
+    height: 600px;
+}
+
+.ssdata{
+    left: 30px;
+    top:   830px;
+    width: 500px;
+    align-items: start;
+    height: 250px;
+
+}
+
+.ssdata h1{
+    width: 450px;
+    padding-left: 20px;
+}
+
+
+.sevenpg{
+    width:920px;
+    height: auto;
+    padding-top: 30px;
+}
+
+.sevendata{
+    height: auto;
+    flex-direction:  column;
+    padding: 40px;
+}
+
+.sevbox{
+    width: 350px;
+    height: 500px;  
+}
+
+.sevenpg  h4{
+    width:700px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+
+.eightp{
+    width: 920px;
+    height: auto;
+}
+.eightbox{
+    width: 700px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+
+}
+
+.eightdata{
+    width: 400px;
+        left: 170px;
+        top: 40px;
+
+}
+
+.eightp h2{
+    padding: 0;
+    font-size: 50px;
+}
+.eightp h3{
+    font-size: 20px;
+}
+
+.eightp h1{
+    width: 400px;
+    font-size: 26px;
+    
+}
+
+.eightp h1 span{
+    width: 400px;
+    font-size: 26px;
+    
+}
+.ninepg{
+    width: 920px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: auto;
+}
+
+
+.ninebox{
+    width: 330px;
+    height: auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    overflow: hidden;
+}
+
+.nine{
+    flex-direction: column;
+}
+
+.ninebox h5{
+    width: 270px;
+}
+
+.date{
+    width: 300px;
+    padding-bottom: 20px;
+}
+
+.tenpg{
+    width: 920px;
+    height: auto;
+}
+
+.ten1{
+    width: 800px;
+    height: 200px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ten1 h1{
+    font-size: 20px;
+
+}
+
+.ten1 h1 span{
+    font-size: 20px;
+}
+.ten3{
+    width: 800px;
+    height: 200px;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ten2 h3{
+    font-size: 15px;
+}
+.ten2{
+    width: 800px;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+   padding-bottom: 20px;
+       text-align: center;
+}
+
+
+.ll{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 140px;
+}
+
+.li{
+    display: flex;
+}
+
+.fff{
+    width: 370px;
+    height: auto;
+    
+    
+
+}
+
+.ten1 h1{
+    font-size: 30px;
+}
+
+.ten1 h1 span{
+    font-size: 30px;
+}
+.extraa h1{
+display: none;
+}
+
+.extra  h1{
+display: none;
+}
+
+.ten21 h1{
+    width: 600px;
+    font-size: 30px;
+    margin-left: -300px;
+}
+.ten21 h1 span{
+    width: 600px;
+    font-size: 30pxs;
+}
+}
+
+
+
+@media only screen and (max-width: 600px){
+    .firstpg{
+    
+
+        width: 600px;
+height: 800px;
+background-size: 1000px;
+    }
+
+    .navbar{
+        width: 600px;
+        height: 60px;
+        background-color: rgb(255, 255, 255);
+       
+        
+    }
+
+    .navbar ul{
+        display: none;
+    }
+
+    .nav1{
+        width: 60%;
+        margin-left: -40px;
+
+    }
+
+    .nav3{
+        display: none;
+    }
+
+    .nav12{
+        display: none;
+    }
+    .nav22{
+        display: flex;
+    }
+
+    .firstdata{
+        width: 600px;
+
+        padding-left: 20px;
+    }
+    .firstdata h1{
+        font-size: 50px;
+        width: 550px;
+
+        line-height: 60px;
+    }
+
+
+    .secpg{
+        width: 600px;
+        height: auto;
+
+    flex-direction: column;
+    }
+
+    .sec1{
+        width: 600px;
+        height: auto;
+
+    }
+
+    .sec1 img{
+        width: 480px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .secbox{
+
+        left: 30px;
+        top: 350px;
+    }
+.sec2{
+    width: 600px;
+    height: auto;
+padding-left: 50px;
+padding-bottom: 100px;
+padding-top: 70px;
+}
+
+.sec2 h1{
+    width: 500px;
+    font-size: 35px;
+}
+
+.sec2 p{
+    width: 500px;
+    line-height: 27px;
+
+}
+
+
+.fivepg{
+    width: 600px;
+    height: auto;
+}
+
+.five1{
+    flex-direction: column;
+    
+}
+
+.five11{
+    width: 350px;       
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+}
+
+
+.five12{
+    width: 600px;
+    padding-left: 35px;
+padding-top: 20px;    
+
+}
+
+.five12 h1{
+    
+  width: 500px;
+}
+
+
+.fbox{
+    width: 500px;
+    box-shadow: none;
+    margin-left: 450px;
+
+}
+.fourbox{
+    width: 550px;
+     animation: slide 15s infinite;
+     flex: 0 0 550px;
+     justify-content: start;
+
+    }
+
+.fbox h1{ 
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fimg{
+    left: 450px;
+    top:270px;
+}
+
+
+.fourpg{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: auto;
+    justify-content: start;
+}
+
+
+
+
+
+@keyframes slide {
+    0% {
+        transform: translateX(0%);
+    }
+
+    16% {
+        transform: translateX(-100%);
+    }
+
+    32% {
+        transform: translateX(-200%);
+    }
+
+    48% {
+        transform: translateX(-300%);
+    }
+
+    64% {
+        transform: translateX(-400%);
+    }
+
+    80% {
+        transform: translateX(-500%);
+    }
+
+    100% {
+        transform: translateX(-600%);
+    }
+
+
+
+
+}
+
+.four1{
+    width: 500px;
+    text-align: center;
+    height: 200px;
+   
+}
+
+.four1 h3{
+    width: 550px;
+    font-size: 20px;
+}
+
+.four1 h1{
+    width: 400px;
+    font-size: 30px;
+}
+
+.four1 h1 span{
+    width: 400px;
+    font-size: 30px;
+}
+
+
+.four2{
+    width: 600px;
+    height: auto;
+    margin-left: 0;
+    display: flex;
+    margin-top: -140px;
+}
+
+.fourboxdata{
+   width: 500px;
+   height: auto;
+}
+
+.five2{
+    width: 600px;
+
+    display: flex;
+    height: auto;
+    
+
+    flex-direction: column;
+
+}
+
+.five2 h1{
+    font-size: 30px;
+    width: 500px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.five2 h1 span{
+    font-size: 30px;
+}
+
+.sixpg{
+    width: 600px;   
+    flex-direction: column;
+    height: auto; 
+    padding-top: 50px;
+  }
+
+.six3{
+    display: flex;
+    gap:20px;
+    flex-direction: column;
+    padding-bottom: 40px;
+}
+
+.six2{
+    display: flex;
+    width: 600px;   
+    justify-content: center;
+}
+
+.ssdata{
+    left: 30px;
+    top:   790px;
+
+}
+
+.sixdata h3{
+    width: 500px;
+}
+
+.sixdata h1{
+    width: 500px;
+}
+
+.sixdata p{
+    width: 500px;
+}
+
+
+.sevenpg{
+    width: 600px;
+    height: auto;
+    padding-top: 30px;
+}
+
+.sevendata{
+    width: 600px;
+    height: auto;
+    flex-direction:  column;
+    padding: 40px;
+}
+
+.sevbox{
+    width: 250px;
+}
+
+.sevenpg  h4{
+    width: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.eightp{
+    width: 600px;
+    height: auto;
+}
+.eightbox{
+    width: 500px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.eightdata{
+        left: 70px;
+        top: 0;
+
+}
+
+.eightp h2{
+    padding: 0;
+    font-size: 50px;
+}
+.eightp h3{
+    font-size: 20px;
+}
+
+.eightp h1{
+    width: 300px;
+    font-size: 20px;
+    
+}
+
+.eightp h1 span{
+    width: 270px;
+    font-size: 20px;
+    
+}
+.ninepg{
+    width: 600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: auto;
+}
+
+
+.ninebox{
+    width: 250px;
+    height: auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    overflow: hidden;
+}
+
+.nine{
+    flex-direction: column;
+}
+
+.ninebox h5{
+    width: 220px;
+}
+
+.date{
+    width: 220px;
+}
+
+.tenpg{
+    width: 600px;
+    height: auto;
+}
+
+.ten1{
+    width: 500px;
+    height: 200px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ten1 h1{
+    font-size: 20px;
+
+}
+
+.ten1 h1 span{
+    font-size: 20px;
+}
+.ten3{
+    width: 500px;
+    height: 200px;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ten2 h3{
+    font-size: 15px;
+}
+.ten2{
+    width: 500px;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+   padding-bottom: 20px;
+       text-align: center;
+}
+
+
+.ll{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 140px;
+}
+
+.li{
+    display: flex;
+}
+
+.fff{
+    width: 300px;
+    height: auto;
+    
+
+}
+
+.fffff{
+    display: flex;
+    flex-direction: column  ;
+    margin-right: 60px;
+}
+
+.extraa h1{
+display: none;
+}
+
+.extra  h1{
+display: none;
+}
+
+
+}
+
+
+@media only screen and (max-width: 430px){
+
+.firstpg{
+    width: 430px;
+    height: 580px;
+     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+    .navbar{
+        width: 430px;
+        height: 70px;
+        background-color: rgb(255, 255, 255);
+       
+        
+    }
+
+    .navbar ul{
+        display: none;
+    }
+
+    .nav1{
+        width: 60%;
+        margin-left: -40px;
+
+    }
+
+    .nav3{
+        display: none;
+    }
+
+    .nav12{
+        display: none;
+    }
+    .nav22{
+        display: flex;
+    }
+    .nav22 img{
+        width: 80%;
+    }
+    .firstdata{
+        width: 430px;
+
+        padding-left: 10px;
+    }
+    .firstdata h1{
+        font-size: 40px;
+        width: 380px;
+
+        line-height: 40px;
+    }
+
+    .firstdata h1 span{
+        font-size: 40px;
+    }
+    .firstdata h3{
+        padding-top: 30px;
+    }
+
+
+    .secpg{
+        width: 430px;
+        height: auto;
+
+    flex-direction: column;
+    }
+
+    .sec1{
+        width: 430px;
+        height: auto;
+         display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .sec1 img{
+    width: 340px;
+           margin-left:190px;
+           margin-top: 100px;
+    }
+
+
+    .secbox{
+width: 170px;
+height: 190px;
+        left: 30px;
+        top: 300px;
+    }
+.sec2{
+    width: 430px;
+    height: auto;
+padding-left: 20px;
+padding-bottom: 100px;
+padding-top: 70px;
+}
+
+.sec2 h1{
+    width: 380px;
+    font-size: 35px;
+}
+
+.sec2 p{
+    width: 380px;
+    line-height: 27px;
+
+}
+.four2{
+    padding-left: 70px;
+}
+
+.fourpg{
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    height: auto;
+    overflow: hidden;
+}
+
+
+        
+
+
+@keyframes slide {
+    0% {
+        transform: translateX(0%);
+    }
+
+    16% {
+        transform: translateX(-100%);
+    }
+
+    32% {
+        transform: translateX(-200%);
+    }
+
+    48% {
+        transform: translateX(-300%);
+    }
+
+    64% {
+        transform: translateX(-400%);
+    }
+
+    80% {
+        transform: translateX(-500%);
+    }
+
+    100% {
+        transform: translateX(-600%);
+    }
+
+
+
+
+}
+
+.four1{
+    width: 400px;
+    height: 220px;
+    padding: 0;
+    padding-bottom: 220px;
+    padding-top: 100px;
+}
+.four1 h3{
+    font-size: 20px;
+    width: 300px;
+}
+
+.four1 h1{
+    width: 350px;
+    font-size: 30px;
+
+}
+
+.four1 h1 span{
+    font-size: 30px;
+}
+
+.fbox{
+    display: flex;
+    flex-direction: column;
+}
+.four2{
+    margin-left: 0;
+    display: flex;
+    justify-content: start;
+            margin-top: -140px;
+}
+
+.fourbox{
+    width: 430px;
+     animation: slide 15s infinite;
+     flex: 0 0 400px;
+     justify-content: start;
+
+    }
+
+.fourboxdata{
+    width: 300px;    
+    height: 430px;   
+}
+
+.fivepg{
+    width: 430px;
+    height: auto;
+    overflow: hidden;
+}
+
+.five1{
+    flex-direction: column;
+    
+}
+
+.five11{
+    width: 70px;       
+    justify-content: center;
+    align-items: center;
+}
+
+
+.five12{
+    width: 430px;
+    padding-left: 35px;
+padding-top: 20px;    
+
+}
+
+.five12 h1{
+    
+  width: 370px;
+  font-size: 30px;
+}
+
+.five12 h1 span{
+    width: 300px;
+    font-size: 30px;
+}
+
+
+.fbox{
+    width: 280px;
+    height: 300px;
+    box-shadow: none;
+    
+
+}
+
+.fbox h1{ 
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fimg{
+    left: 290px;
+    top:270px;
+}
+
+.fffff{
+    width: 350px;
+        display: flex   ;
+        flex-direction: column;
+         justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.fff{
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 55px;
+    
+
+
+}
+.fivebox{
+    width: 380px;
+}
+
+.five2 h1{
+    width: 400px; 
+       display: flex;
+    padding-left: 40px;
+}
+.five2{
+    width: 430px;
+
+    display: flex;
+    height: auto;
+    
+
+    flex-direction: column;
+
+}
+
+
+
+.sixpg{
+    width: 430px;   
+    flex-direction: column;
+    height: auto; 
+    padding-top: 50px;
+    overflow: hidden;
+  }
+
+ 
+.six3{
+    display: flex;
+    gap:20px;
+    flex-direction: column;
+    padding-bottom: 40px;
+}
+.six1 h3{
+    width: 250px;
+}
+
+.six2{
+    display: flex;
+    width: 430px;   
+    justify-content: center;
+}
+
+.ssdata{
+    width: 360px;
+    height: 250px;
+    left: 20px;
+    top:   930px;
+
+}
+
+  .sixdata h1{
+    width: 370px;
+    font-size: 30px;
+  }
+
+  .sixdata h1 span{
+    font-size: 30px;
+  }
+  .sixdata p{
+    width: 300px;
+  }
+  .ssdata h1{
+    width: 350px;
+    
+  }
+.sixdata{
+    width: 350px;
+}
+
+.six1{
+    width: 400px;
+}
+  
+.sevenpg{
+    width:430px;
+    height: auto;
+    padding-top: 30px;
+    overflow: hidden;
+}
+
+.sevendata{
+    width: 430px;
+    height: auto;
+    flex-direction:  column;
+    padding: 40px;
+    padding-left:20px;
+}
+
+.sevbox{
+    width: 400px;
+    height:400px;  
+}
+
+.sevbox img{
+    width: 40%;
+}
+.sevenpg  h4{
+    width:400px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+
+.se{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.eightp{
+    width:  430px;
+    height: auto;
+    overflow: hidden;
+}
+.eightbox{
+    width:370px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.eightdata{
+    width: 0px;
+        left:40px;
+        top: 40px;
+
+}
+
+.eightp h2{
+    padding: 0;
+    font-size: 40px;
+}
+.eightp h3{
+    font-size: 15px;
+    width: 200px;
+}
+.eightp h1{
+    width: 300px;
+    font-size: 18px;
+    
+}
+
+.eightp h1 span{
+    width: 400px;
+    font-size: 18px;
+    
+}
+.ninepg{
+    width: 430px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: auto;
+    overflow: hidden;
+}
+
+
+.ninebox{
+    width: 390px;
+    height: auto;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    overflow: hidden;
+}
+
+.nine{
+    flex-direction: column;
+}
+
+.ninebox h5{
+    width: 320px;
+}
+
+.date{
+    width: 380px;
+}
+.nn{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.tenpg{
+    width: 430px;
+    height: auto;
+}
+
+.ten1{
+    width: 430px;
+    height: 200px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ten2 h1{
+    margin-left: -170px;
+    font-size: 25px;
+}
+
+.ten1 img{
+    top: 20px;
+    left: 20px;
+    width: 30%;
+}
+
+.ten1 h1{
+    width: 370px;
+    font-size: 25px;
+
+}
+
+.ten1 h1 span{
+    font-size: 25px;
+}
+.ten3{
+    width: 330px;
+    height: auto;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ten2 h3{
+    font-size: 15px;
+}
+
+.ten21 h1{
+    width: 390px;
+    color: gray;
+
+}
+.ten2{
+    width: 380px;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+   padding-bottom: 20px;
+       text-align: center;
+}
+.ten2 img{
+    margin-left: -60px;
+}
+.ll{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 140px;
+}
+
+.li{
+    display: flex;
+    flex-direction: column ;
+    gap: 20px;
+}
+
+
+
+
+.ten31 ul{
+    width: 330px;
+        flex-wrap: wrap;
+        justify-content: center ;
+
+
+}
+
+
+.ten31 h3{
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+}
